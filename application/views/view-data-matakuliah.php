@@ -16,21 +16,21 @@
                     </td>
                 </tr>
                 <tr> 
-                    <td>Kode MTK</td> 
-                    <td>:</td> 
+                    <th>Kode MTK</th> 
+                    <th>:</th> 
                     <td> 
                         <?= $kode; ?> 
                     </td> 
                 </tr> 
                 <tr> 
-                    <td>Nama MTK</td> 
-                    <td>:</td> 
+                    <th>Nama MTK</th> 
+                    <th>:</th> 
                     <td> 
                         <?= $nama; ?> 
                     </td> </tr> 
                     <tr> 
-                        <td>SKS</td> 
-                        <td>:</td> 
+                        <th>SKS</th> 
+                        <th>:</th> 
                         <td> 
                             <?= $sks; ?> </td> </tr> 
                             <tr> <td colspan="3" align="center"> 
